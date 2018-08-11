@@ -1,0 +1,2 @@
+# CollaterizedCrowdfunding
+CollaterizedCrowdfunding project for ETHIndia Hackathon
